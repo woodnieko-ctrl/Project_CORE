@@ -61,6 +61,12 @@ I won't describe planned behavior as a completed feature, and I won't announce a
 ## Completed Build Milestones
 
 I've started keeping a public record of what CORE has actually achieved, along with the limits of each completed development milestone. See the [Completed Build Milestones](BUILD_MILESTONES.md) journal for the latest verified progress.
+## Current Architecture and Function Status
+
+The [Collaborative Intelligence](COLLABORATIVE_INTELLIGENCE.md) journal explains the intended cooperation between CORE, BRAIN and Night Shift, including human-controlled improvements and continuity beyond individual model sessions.
+
+The [Function Status](FUNCTION_STATUS.md) tracker shows what each capability is intended to do, what has been demonstrated, and what remains to be proven in plain language.
+
 
 ## Development Notes
 
