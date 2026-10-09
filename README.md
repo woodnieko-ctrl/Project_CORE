@@ -58,6 +58,10 @@ Foundational runtime and memory work has reached controlled testing milestones. 
 
 I won't describe planned behavior as a completed feature, and I won't announce a release date before the project is ready to support one.
 
+## Completed Build Milestones
+
+I've started keeping a public record of what CORE has actually achieved, along with the limits of each completed development milestone. See the [Completed Build Milestones](BUILD_MILESTONES.md) journal for the latest verified progress.
+
 ## Development Notes
 
 This repository is a public window into the project, not the development environment itself.
